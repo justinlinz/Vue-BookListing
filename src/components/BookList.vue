@@ -14,9 +14,9 @@ export default {
 		return {
 			title: 'All Books',
 			books: [
-				{title: 'Rocky I', author: 'Sly Stalone'},
-				{title: 'Rocky II', author: 'Sly Stalone'},
-				{title: 'Rocky III', author: 'Sly Stalone'}
+				{title: 'Self-Reliance', author: 'Ralph Waldo Emerson'},
+				{title: 'American Gods', author: 'Neil Gaiman'},
+				{title: 'Amusing Ourselves to Death', author: 'Neil Postman'}
 			]
 		}
 	}
